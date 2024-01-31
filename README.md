@@ -4,3 +4,5 @@
 - I like summer
 - I like driving a car
 - I love Tortik
+- I like walking
+
